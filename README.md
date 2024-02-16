@@ -1,14 +1,20 @@
-# Crowdfunding_ETL
-Project 2: ETL mini project
-The mini project is divided into the following subsections:  
+<p align="center">
+  <img width="400" height="400" src="https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/e9f9f422-f019-46ba-9148-bd1f56829aaf">
+</p>
 
-- Create the Category and Subcategory DataFrames
-- Create the Campaign DataFrame  
-- Create the Contacts DataFrame  
-- Create the Crowdfunding Database  
+# Crowdfunding_ETL: Project 2: ETL mini project :bar_chart:
 
-**Create the Category and Subcategory DataFrames** 
-- 
+## Purpose
+The mini project is divided into the following **subsections**:  
+
+1. [Create the Category and Subcategory DataFrames(#1-Create-the-Category-and-Subcategory-DataFrames)]
+2. [Create the Campaign DataFrame](#2-tech-stack)
+3. [Create the Contacts DataFrame](#3-tech-stack)
+4. [Create the Crowdfunding Database](#4-tech-stack)
+5. [Documents Created and Updated](#5-tech-stack)
+
+## 1. Create the Category and Subcategory DataFrames
+
 This process involves the following items  
 - Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 
@@ -24,7 +30,8 @@ This process involves the following items
     - A "subcategory" column that contains only the subcategory titles
         --Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
-**Create the Campaign DataFrame**  
+## **2. Create the Campaign DataFrame**  
+
 This involves the following steps:  
 - Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame has the following columns:
 
@@ -57,8 +64,8 @@ This involves the following steps:
     - The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
 - Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.  
 
-**Create the Contacts DataFrame** 
-- 
+## **3. Create the Contacts DataFrame** 
+
 
 The team chose the following option for analysis and below are the steps taken for the analysis:  
 
@@ -73,8 +80,8 @@ The team chose the following option for analysis and below are the steps taken f
     - Split each "name" column value into a first and last name, and place each in a new column.
     - Clean and export the DataFrame as contacts.csv and save it to your GitHub repository.  
 
-**Create the Crowdfunding Database**  
--
+## **4. Create the Crowdfunding Database**  
+
 This involves the following steps:  
 -   Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
 
@@ -91,9 +98,11 @@ This involves the following steps:
 
 -   Verify that each table has the correct data by running a SELECT statement for each.
 
-Documents Created and Updated:
-- 
-- ETL_Mini_Project_Starter_Code-LJepkorir_MSosa_COMBINED = contains the combined code of the analysis we did individually  
+## **5. Documents Created and Updated:**
+ 
+- ETL_Mini_Project_Starter_Code-LJepkorir_MSosa_COMBINED
+    - contains the combined code of the analysis we did individually  
+
 - Resources Folder contains the following new documents:
     - campaign.csv     = output from the campaign dataframe 
     - category.csv     = output from the category dataframe
@@ -104,7 +113,3 @@ Documents Created and Updated:
 - Database Folder contains the following new documents: 
     - crowdfunding_db_schema.sql = queries for creating tables and showing data in the queries
     - QuickDBD-crowdfunding_db = ERD Diagram created
-    - Database Data = has screen shots of database created, queries and tables
-
-
-
