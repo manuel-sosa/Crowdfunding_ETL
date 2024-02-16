@@ -7,15 +7,16 @@ CREATE TABLE category(
 
 SELECT *
 from category;
-
+-- create the subcategory table
 CREATE TABLE subcategory(
     subcategory_id VARCHAR(10) NOT NULL PRIMARY KEY,
     subcategory VARCHAR(25) NOT NULL
  );
+ 
 SELECT *
 from subcategory
 
-
+--create the contacts table
 CREATE TABLE contacts(
     contact_id INT NOT NULL PRIMARY KEY,
     first_name VARCHAR(30) NOT NULL,
@@ -25,6 +26,8 @@ CREATE TABLE contacts(
 SELECT *
 from contacts
 
+
+--create the campaigns table
 CREATE TABLE campaigns(
     cf_id INT NOT NULL PRIMARY KEY,
     contact_id INT NOT NULL,

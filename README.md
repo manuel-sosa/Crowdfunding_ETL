@@ -104,6 +104,7 @@ Documents Created and Updated:
 - Database Folder contains the following new documents: 
     - crowdfunding_db_schema.sql = queries for creating tables and showing data in the queries
     - QuickDBD-crowdfunding_db = ERD Diagram created
+    - Database Data = has screen shots of database created, queries and tables
 
 
 
