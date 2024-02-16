@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="400" src="https://github.com/manuel-sosa/Crowdfunding_ETL/blob/main/image.png">
+  <img width="600" height="400" src="https://github.com/manuel-sosa/Crowdfunding_ETL/blob/main/image.png">
 </p>
 
 # Crowdfunding_ETL: Project 2: ETL mini project :bar_chart:
@@ -8,13 +8,13 @@
 
 The ETL mini project aims to provide practical experience in building an ETL (Extract, Transform, Load) pipeline, which is essential for data integration processes. Here are its key purposes:
 
-**1. Collaboration and Practice.**
+**A. Collaboration and Practice.**
 
-**2. Data Transformation.**
+**B. Data Transformation.**
 
-**3. Data Storage and Modeling.**
+**C. Data Storage and Modeling.**
 
-**4. Database Skills.**
+**D. Database Skills.**
 
 
 The mini project is divided into the following **subsections**:  
