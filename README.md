@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="400" src="https://github.com/AAlbers341/project1_coffee_analysis/assets/137431770/e9f9f422-f019-46ba-9148-bd1f56829aaf">
+  <img width="400" height="400" src="![alt text](image.png)">
 </p>
 
 # Crowdfunding_ETL: Project 2: ETL mini project :bar_chart:
@@ -7,11 +7,11 @@
 ## Purpose
 The mini project is divided into the following **subsections**:  
 
-1. [Create the Category and Subcategory DataFrames(#1-Create-the-Category-and-Subcategory-DataFrames)]
-2. [Create the Campaign DataFrame](#2-tech-stack)
-3. [Create the Contacts DataFrame](#3-tech-stack)
-4. [Create the Crowdfunding Database](#4-tech-stack)
-5. [Documents Created and Updated](#5-tech-stack)
+1. [Create the Category and Subcategory DataFrames](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main?tab=readme-ov-file#1-create-the-category-and-subcategory-dataframes)
+2. [Create the Campaign DataFrame](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main?tab=readme-ov-file#2-create-the-campaign-dataframe)
+3. [Create the Contacts DataFrame](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main?tab=readme-ov-file#3-create-the-contacts-dataframe)
+4. [Create the Crowdfunding Database](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main?tab=readme-ov-file#4-create-the-crowdfunding-database)
+5. [Documents Created and Updated](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main?tab=readme-ov-file#5-documents-created-and-updated)
 
 ## 1. Create the Category and Subcategory DataFrames
 
@@ -100,16 +100,17 @@ This involves the following steps:
 
 ## **5. Documents Created and Updated:**
  
-- ETL_Mini_Project_Starter_Code-LJepkorir_MSosa_COMBINED
+- **ETL_Mini_Project_Starter_Code-LJepkorir_MSosa_COMBINED.ipynb** [(Link)](https://github.com/manuel-sosa/Crowdfunding_ETL/blob/main/ETL_Mini_Project_Starter_Code-LJepkorir_MSosa_COMBINED.ipynb)
     - contains the combined code of the analysis we did individually  
 
-- Resources Folder contains the following new documents:
-    - campaign.csv     = output from the campaign dataframe 
-    - category.csv     = output from the category dataframe
-    - subcategory.csv  = output from the subcategory dataframe
-    - contacts.csv     = output from the contacts dataframe  
+- Resources Folder contains the following new documents [(Link)](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main/Resources):
+    - **campaign.csv** = output from the campaign dataframe
+    - **category.csv** = output from the category dataframe
+    - **subcategory.csv** = output from the subcategory dataframe
+    - **contacts.csv** = output from the contacts dataframe
 
 
-- Database Folder contains the following new documents: 
-    - crowdfunding_db_schema.sql = queries for creating tables and showing data in the queries
-    - QuickDBD-crowdfunding_db = ERD Diagram created
+- Database Folder contains the following new documents [(Link)](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main/Database): 
+    - **crowdfunding_db_schema.sql** = queries for creating tables and showing data in the queries
+    - **QuickDBD-crowdfunding_db** = ERD Diagram created
+    - **Database Data** = Database Queries and Database Structures
