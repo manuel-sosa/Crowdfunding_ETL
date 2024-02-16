@@ -1,10 +1,22 @@
 <p align="center">
-  <img width="400" height="400" src="![alt text](image.png)">
+  <img width="400" height="400" src="https://github.com/manuel-sosa/Crowdfunding_ETL/blob/main/image.png">
 </p>
 
 # Crowdfunding_ETL: Project 2: ETL mini project :bar_chart:
 
 ## Purpose
+
+The ETL mini project aims to provide practical experience in building an ETL (Extract, Transform, Load) pipeline, which is essential for data integration processes. Here are its key purposes:
+
+**1. Collaboration and Practice.**
+
+**2. Data Transformation.**
+
+**3. Data Storage and Modeling.**
+
+**4. Database Skills.**
+
+
 The mini project is divided into the following **subsections**:  
 
 1. [Create the Category and Subcategory DataFrames](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main?tab=readme-ov-file#1-create-the-category-and-subcategory-dataframes)
@@ -103,14 +115,14 @@ This involves the following steps:
 - **ETL_Mini_Project_Starter_Code-LJepkorir_MSosa_COMBINED.ipynb** [(Link)](https://github.com/manuel-sosa/Crowdfunding_ETL/blob/main/ETL_Mini_Project_Starter_Code-LJepkorir_MSosa_COMBINED.ipynb)
     - contains the combined code of the analysis we did individually  
 
-- Resources Folder contains the following new documents [(Link)](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main/Resources):
+- **Resources Folder** contains the following new documents [(Link)](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main/Resources):
     - **campaign.csv** = output from the campaign dataframe
     - **category.csv** = output from the category dataframe
     - **subcategory.csv** = output from the subcategory dataframe
     - **contacts.csv** = output from the contacts dataframe
 
 
-- Database Folder contains the following new documents [(Link)](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main/Database): 
+- **Database Folder** contains the following new documents [(Link)](https://github.com/manuel-sosa/Crowdfunding_ETL/tree/main/Database): 
     - **crowdfunding_db_schema.sql** = queries for creating tables and showing data in the queries
     - **QuickDBD-crowdfunding_db** = ERD Diagram created
     - **Database Data** = Database Queries and Database Structures
